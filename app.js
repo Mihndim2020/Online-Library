@@ -8,7 +8,8 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
 var app = express();
-
+var mongoose = require('mongoose');
+var mongoDB = 'mongodb+srv://m001-student:m001-mongodb-basics@sandbox.adwa8.mongodb.net/Online_library?retryWrites=true&w=majority'
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
