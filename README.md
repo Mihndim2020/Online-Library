@@ -11,8 +11,14 @@ Additional description about the project and its features.
 ## Built With
 
 - Major languages
+  - JavaScript
+  - HTML5
+  - CSS3
 - Frameworks
+  - Express.js
 - Technologies used
+  - Git
+  - GitHub
 
 ## Live Demo
 
