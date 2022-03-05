@@ -16,6 +16,7 @@ Additional description about the project and its features.
   - CSS3
 - Frameworks
   - Express.js
+  - Node.js
 - Technologies used
   - Git
   - GitHub
