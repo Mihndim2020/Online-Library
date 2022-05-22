@@ -2,9 +2,7 @@
 
 # Online-Library
 
-> The purpose of the website is to provide an online catalog for a small local library, where users can browse available books and manage their accounts. This project is build with node/Express.js
-
-![screenshot](./app_screenshot.png)
+> The purpose of the website is to provide an online catalog for a small local library, where users can browse available books and manage their accounts. This project is build with node/Express.js, and I have used JADE is the templating framework. 
 
 Additional description about the project and its features.
 
