@@ -20,8 +20,7 @@ Additional description about the project and its features.
   - Git
   - GitHub
 - Tools used
-  - Git
-  - GitHub
+  - VS code
 
 ## Live Demo
 
