@@ -19,6 +19,9 @@ Additional description about the project and its features.
 - Technologies used
   - Git
   - GitHub
+- Tools used
+  - Git
+  - GitHub
 
 ## Live Demo
 
