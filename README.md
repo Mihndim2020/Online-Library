@@ -12,6 +12,7 @@ Additional description about the project and its features.
   - JavaScript
   - HTML5
   - CSS3
+  - EJS
 - Frameworks
   - Express.js
   - Node.js
