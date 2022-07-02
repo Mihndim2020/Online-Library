@@ -68,7 +68,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse community
-- Inspiration
+- W3Schools 
 - etc
 
 ## 📝 License
