@@ -49,7 +49,7 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 - GitHub: [@Mihndim2020](https://github.com/Mihndim2020)
-- Twitter: [@mih julius](https://twitter.com/mih julius)
+- Twitter: [@mih_julius](https://twitter.com/mih julius)
 - LinkedIn: [mihndim](https://linkedin.com/in/mihndim)
 
 
