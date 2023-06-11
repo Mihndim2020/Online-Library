@@ -69,6 +69,7 @@ Give a ⭐️ if you like this project!
 - W3Schools 
 - MDN
 - Udemy
+- Codecademy
 
 ## 📝 License
 
