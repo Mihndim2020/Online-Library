@@ -67,7 +67,9 @@ Give a ⭐️ if you like this project!
 
 - Microverse community
 - W3Schools 
-
+- MDN
+- Udemy
+- Codecademy
 
 ## 📝 License
 
